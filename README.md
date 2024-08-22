@@ -278,7 +278,9 @@ return 0;
  
  ![Screenshot 2024-08-23 000707](https://github.com/user-attachments/assets/8e4473e6-56b1-4d71-896f-93191bcb411f)
 
+# Conclusion
 
+- We learned to use `for` loops, `while` loops, and nested loops in C++.
   
 
 
