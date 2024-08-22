@@ -242,15 +242,41 @@ return 0;
 
 # Outputs:
 
-1. ![Screenshot 2024-08-22 235427](https://github.com/user-attachments/assets/1ee1e280-1a42-4fb0-8ed2-85aecf7c67e9)
-2. ![Screenshot 2024-08-22 235610](https://github.com/user-attachments/assets/f29cb0bb-b5a0-40ae-9cbe-5e3d895b55ff)
-3. ![Screenshot 2024-08-22 235838](https://github.com/user-attachments/assets/0646b117-c1e9-45de-9217-19a325bc5161)
-4. ![Screenshot 2024-08-23 000040](https://github.com/user-attachments/assets/78cf7c37-889f-49ed-8613-3d614ec6657c)
-5. ![Screenshot 2024-08-23 000212](https://github.com/user-attachments/assets/0832967c-d454-4cbe-ae8f-651d119b5967)
-6. ![Screenshot 2024-08-23 000344](https://github.com/user-attachments/assets/ecf52c98-6eab-4d8c-886f-9ae30aa9631e)
-7. ![Screenshot 2024-08-23 000456](https://github.com/user-attachments/assets/351b6c18-f307-4bcd-9e43-53953bdaa8d4)
-8. ![Screenshot 2024-08-23 000558](https://github.com/user-attachments/assets/4da00bf9-d2b5-4e1c-a4f7-9a9aae3976f6)
-9. ![Screenshot 2024-08-23 000707](https://github.com/user-attachments/assets/8e4473e6-56b1-4d71-896f-93191bcb411f)
+ FloydABCD-
+ 
+ ![Screenshot 2024-08-22 235427](https://github.com/user-attachments/assets/1ee1e280-1a42-4fb0-8ed2-85aecf7c67e9)
+
+ Counting-
+ 
+ ![Screenshot 2024-08-22 235610](https://github.com/user-attachments/assets/f29cb0bb-b5a0-40ae-9cbe-5e3d895b55ff)
+ 
+ Floyd-
+ 
+ ![Screenshot 2024-08-22 235838](https://github.com/user-attachments/assets/0646b117-c1e9-45de-9217-19a325bc5161)
+ 
+ NumberPrint-
+ 
+ ![Screenshot 2024-08-23 000040](https://github.com/user-attachments/assets/78cf7c37-889f-49ed-8613-3d614ec6657c)
+ 
+ Password-
+ 
+ ![Screenshot 2024-08-23 000212](https://github.com/user-attachments/assets/0832967c-d454-4cbe-ae8f-651d119b5967)
+ 
+ Pyramid-
+ 
+ ![Screenshot 2024-08-23 000344](https://github.com/user-attachments/assets/ecf52c98-6eab-4d8c-886f-9ae30aa9631e)
+ 
+ Star_1-
+ 
+ ![Screenshot 2024-08-23 000456](https://github.com/user-attachments/assets/351b6c18-f307-4bcd-9e43-53953bdaa8d4)
+ 
+ Star_2-
+ 
+ ![Screenshot 2024-08-23 000558](https://github.com/user-attachments/assets/4da00bf9-d2b5-4e1c-a4f7-9a9aae3976f6)
+ 
+ While-
+ 
+ ![Screenshot 2024-08-23 000707](https://github.com/user-attachments/assets/8e4473e6-56b1-4d71-896f-93191bcb411f)
 
 
   
