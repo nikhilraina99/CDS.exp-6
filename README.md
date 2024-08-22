@@ -41,10 +41,10 @@ Floyd's Triangle: A triangular arrangement of natural numbers where numbers are 
 
 # Program Codes
 ```javascript
-//Nikhil
-//23070123093
-//EXP6
- //Printing numbers using for loop.
+// Nikhil
+// 23070123093
+// EXP6
+// Printing numbers using for loop.
 #include<iostream>
 using namespace std;
 int main()
