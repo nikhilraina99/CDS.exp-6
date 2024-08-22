@@ -60,10 +60,10 @@ int main()
 }
 ```
 ```
-//Nikhil
-//23070123093
-//EXP6
-//Printing numbers using while loop.
+// Nikhil
+// 23070123093
+// EXP6
+// Printing numbers using while loop.
 #include<iostream>
 using namespace std;
 int main ()
@@ -80,10 +80,10 @@ int main ()
 }
 ```
 ```
-//Nikhil
-//23070123093
-//EXP6
-//Triangular star pattern
+// Nikhil
+// 23070123093
+// EXP6
+// Triangular star pattern
 #include<iostream>
 using namespace std;
 int main ()
@@ -102,10 +102,10 @@ int main ()
 }
 ```
 ```
-//Nikhil
-//23070123093
-//EXP6
-//Square shaped star pattern.
+// Nikhil
+// 23070123093
+// EXP6
+// Square shaped star pattern.
 #include<iostream>
 using namespace std;
 int main ()
@@ -123,10 +123,10 @@ int main ()
 }
 ```
 ```
-//Nikhil
-//23070123093
-//EXP6
-//Pyramid of star
+// Nikhil
+// 23070123093
+// EXP6
+// Pyramid of star
 #include<iostream>
 using namespace std;
 int main ()
@@ -149,10 +149,10 @@ int main ()
 }
 ```
 ```
-//Nikhil
-//23070123093
-//EXP6
-//Sum of the numbers printed
+// Nikhil
+// 23070123093
+// EXP6
+// Sum of the numbers printed
 #include<iostream>
 using namespace std;
 int main()
@@ -172,10 +172,10 @@ int main()
 }
 ```
 ```
-//Nikhil
-//23070123093
-//EXP6
-//Floyd triangle
+// Nikhil
+// 23070123093
+// EXP6
+// Floyd triangle
 #include<iostream>
 using namespace std;
 int main()
@@ -196,10 +196,10 @@ int main()
 }
 ```
 ```
-//Nikhil
-//23070123093
-//EXP6
-//Floyd triangle of alphabets
+// Nikhil
+// 23070123093
+// EXP6
+// Floyd triangle of alphabets
 #include<iostream>
 using namespace std;
 int main()
@@ -221,10 +221,10 @@ int main()
 }
 ```
 ```
-//Nikhil
-//23070123093
-//EXP6
-//Password validation
+// Nikhil
+// 23070123093
+// EXP6
+// Password validation
 #include<iostream>
 #include<string>
 using namespace std;
