@@ -59,7 +59,8 @@ int main()
     return 0;
 }
 ```
-```
+
+```javascript
 // Nikhil
 // 23070123093
 // EXP6
@@ -79,7 +80,8 @@ int main ()
 
 }
 ```
-```
+
+```javascript
 // Nikhil
 // 23070123093
 // EXP6
@@ -101,7 +103,8 @@ int main ()
     return 0;
 }
 ```
-```
+
+```javascript
 // Nikhil
 // 23070123093
 // EXP6
@@ -122,7 +125,8 @@ int main ()
     return 0;
 }
 ```
-```
+
+```javascript
 // Nikhil
 // 23070123093
 // EXP6
@@ -148,7 +152,8 @@ int main ()
     return 0;
 }
 ```
-```
+
+```javascript
 // Nikhil
 // 23070123093
 // EXP6
@@ -171,7 +176,8 @@ int main()
 
 }
 ```
-```
+
+```javascript
 // Nikhil
 // 23070123093
 // EXP6
@@ -195,7 +201,8 @@ int main()
     return 0;
 }
 ```
-```
+
+```javascript
 // Nikhil
 // 23070123093
 // EXP6
@@ -220,7 +227,8 @@ int main()
     return 0;
 }
 ```
-```
+
+```javascript
 // Nikhil
 // 23070123093
 // EXP6
