@@ -36,7 +36,9 @@ Write a C++ program that repeatedly prompts the user for a password until the co
 
 # Theory
 For Loop: A loop structure used to repeat a block of code a specific number of times, controlled by a defined range.
+
 While Loop: A loop that continues to execute a block of code as long as a specified condition remains true, typically used when the number of iterations isn't predetermined.
+
 Floyd's Triangle: A triangular arrangement of natural numbers where numbers are placed in a left-justified pattern, commonly used in educational contexts.
 
 # Program Codes
